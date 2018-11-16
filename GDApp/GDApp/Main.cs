@@ -163,6 +163,7 @@ namespace GDApp
     /// </summary>
     public class Main : Microsoft.Xna.Framework.Game
     {
+        int x = 0;
         #region Fields
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
