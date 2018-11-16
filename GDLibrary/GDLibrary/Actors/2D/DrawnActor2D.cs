@@ -17,6 +17,7 @@ namespace GDLibrary
         private Color color, originalColor;
         private float layerDepth, originalLayerDepth;
         private SpriteEffects originalSpriteEffects, spriteEffects;
+        
         #endregion
 
         #region Properties

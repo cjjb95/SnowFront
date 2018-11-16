@@ -68,5 +68,8 @@ namespace GDLibrary
             Keys.NumPad1, Keys.NumPad3   //strafe left, strafe right
         };
 
+        #region Menu
+        public static readonly string MenuMainID = "main";
+        #endregion
     }
 }

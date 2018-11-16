@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Debug\Fonts\debugFont.xnb</Output>
-      <Time>2018-11-15T13:52:45.7014067+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Debug\Fonts\debugFont.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Fonts\hudFont.spritefont</Source>
@@ -16,8 +16,17 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\hudFont.xnb</Output>
-      <Time>2018-11-15T13:52:45.7474067+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\hudFont.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Fonts\menu.spritefont</Source>
+      <Name>Assets\Fonts\menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\menu.xnb</Output>
+      <Time>2018-11-16T13:55:00+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\box.FBX</Source>
@@ -25,11 +34,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\box.xnb</Output>
-      <Time>2018-11-15T13:52:45.7704058+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\box.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\box_0.xml</Key>
-        <Value>2018-11-15T13:57:08.2229667+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\box_0.xml</Key>
+        <Value>2018-11-16T22:10:18.2289234+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -38,11 +47,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\box2.xnb</Output>
-      <Time>2018-11-15T13:52:45.7964073+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\box2.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\box2_0.xml</Key>
-        <Value>2018-11-15T13:57:08.3535618+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\box2_0.xml</Key>
+        <Value>2018-11-16T22:10:18.3108764+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -51,11 +60,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\cylinder.xnb</Output>
-      <Time>2018-11-15T13:52:45.8164065+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\cylinder.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\cylinder_0.xml</Key>
-        <Value>2018-11-15T13:57:08.3875639+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\cylinder_0.xml</Key>
+        <Value>2018-11-16T22:10:18.3518581+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -64,11 +73,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\dome.xnb</Output>
-      <Time>2018-11-15T13:52:45.8374096+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\dome.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\dome_0.xml</Key>
-        <Value>2018-11-15T13:57:08.4595606+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\dome_0.xml</Key>
+        <Value>2018-11-16T22:10:18.4368038+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -77,11 +86,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\hedra.xnb</Output>
-      <Time>2018-11-15T13:52:45.8684079+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\hedra.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\hedra_0.xml</Key>
-        <Value>2018-11-15T13:57:08.4915658+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\hedra_0.xml</Key>
+        <Value>2018-11-16T22:10:18.4767859+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -90,11 +99,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\octahedron.xnb</Output>
-      <Time>2018-11-15T13:52:45.8934051+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\octahedron.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\octahedron_0.xml</Key>
-        <Value>2018-11-15T13:57:08.5215655+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\octahedron_0.xml</Key>
+        <Value>2018-11-16T22:10:18.5147481+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -103,11 +112,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\plane.xnb</Output>
-      <Time>2018-11-15T13:52:45.9164082+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\plane.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane_0.xml</Key>
-        <Value>2018-11-15T13:57:08.578542+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane_0.xml</Key>
+        <Value>2018-11-16T22:10:18.5827196+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -116,11 +125,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\plane1.xnb</Output>
-      <Time>2018-11-15T13:52:45.9344066+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\plane1.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane1_0.xml</Key>
-        <Value>2018-11-15T13:57:08.6075129+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane1_0.xml</Key>
+        <Value>2018-11-16T22:10:18.653666+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -129,11 +138,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\prism.xnb</Output>
-      <Time>2018-11-15T13:52:45.954406+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\prism.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\prism_0.xml</Key>
-        <Value>2018-11-15T13:57:08.6375121+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\prism_0.xml</Key>
+        <Value>2018-11-16T22:10:18.6926451+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -142,11 +151,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\sphere.xnb</Output>
-      <Time>2018-11-15T13:52:45.9734073+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\sphere.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\sphere_0.xml</Key>
-        <Value>2018-11-15T13:57:08.6775442+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\sphere_0.xml</Key>
+        <Value>2018-11-16T22:10:18.7426149+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -155,11 +164,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\spindle.xnb</Output>
-      <Time>2018-11-15T13:52:45.9924068+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\spindle.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\spindle_0.xml</Key>
-        <Value>2018-11-15T13:57:08.7125384+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\spindle_0.xml</Key>
+        <Value>2018-11-16T22:10:18.7866027+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -168,11 +177,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\torus.xnb</Output>
-      <Time>2018-11-15T13:52:46.012407+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\torus.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\torus_0.xml</Key>
-        <Value>2018-11-15T13:57:08.7475434+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\torus_0.xml</Key>
+        <Value>2018-11-16T22:10:18.8345616+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -181,11 +190,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\torusknot.xnb</Output>
-      <Time>2018-11-15T13:52:46.0334061+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\torusknot.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
       <Dependency>
-        <Key>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\torusknot_0.xml</Key>
-        <Value>2018-11-15T13:57:08.8095114+00:00</Value>
+        <Key>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\torusknot_0.xml</Key>
+        <Value>2018-11-16T22:10:18.9035228+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -194,8 +203,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Debug\Textures\checkerboard.xnb</Output>
-      <Time>2018-11-15T13:52:45.7234057+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Debug\Textures\checkerboard.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Ground\foliage.png</Source>
@@ -203,8 +212,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\foliage.xnb</Output>
-      <Time>2018-11-15T13:52:46.0644089+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\foliage.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Ground\grass1.jpg</Source>
@@ -212,8 +221,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\grass1.xnb</Output>
-      <Time>2018-11-15T13:52:46.0854064+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\grass1.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Shrubs\shrub1.png</Source>
@@ -221,8 +230,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub1.xnb</Output>
-      <Time>2018-11-15T13:52:46.1114052+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub1.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Shrubs\shrub2.png</Source>
@@ -230,8 +239,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub2.xnb</Output>
-      <Time>2018-11-15T13:52:46.1354066+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub2.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Shrubs\shrub3.png</Source>
@@ -239,8 +248,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub3.xnb</Output>
-      <Time>2018-11-15T13:52:46.1604064+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub3.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree1.png</Source>
@@ -248,8 +257,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree1.xnb</Output>
-      <Time>2018-11-15T13:52:46.1834278+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree1.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree2.png</Source>
@@ -257,8 +266,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree2.xnb</Output>
-      <Time>2018-11-15T13:52:46.2034318+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree2.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree3.png</Source>
@@ -266,8 +275,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree3.xnb</Output>
-      <Time>2018-11-15T13:52:46.2224071+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree3.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree4.png</Source>
@@ -275,8 +284,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree4.xnb</Output>
-      <Time>2018-11-15T13:52:46.2814114+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree4.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree5.png</Source>
@@ -284,8 +293,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree5.xnb</Output>
-      <Time>2018-11-15T13:52:46.3104087+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree5.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Props\Crates\crate1.jpg</Source>
@@ -293,8 +302,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate1.xnb</Output>
-      <Time>2018-11-15T13:52:46.351407+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate1.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Props\Crates\crate2.jpg</Source>
@@ -302,8 +311,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate2.xnb</Output>
-      <Time>2018-11-15T13:52:46.3694151+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate2.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Props\tv.png</Source>
@@ -311,8 +320,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\tv.xnb</Output>
-      <Time>2018-11-15T13:52:46.3294077+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\tv.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\back.bmp</Source>
@@ -320,8 +329,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\back.xnb</Output>
-      <Time>2018-11-15T13:52:46.3964066+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\back.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\front.bmp</Source>
@@ -329,8 +338,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\front.xnb</Output>
-      <Time>2018-11-15T13:52:46.4264061+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\front.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\ground.bmp</Source>
@@ -338,8 +347,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\ground.xnb</Output>
-      <Time>2018-11-15T13:52:46.449409+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\ground.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\left.bmp</Source>
@@ -347,8 +356,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\left.xnb</Output>
-      <Time>2018-11-15T13:52:46.4734082+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\left.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\right.bmp</Source>
@@ -356,8 +365,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\right.xnb</Output>
-      <Time>2018-11-15T13:52:46.4974074+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\right.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\sky.bmp</Source>
@@ -365,8 +374,125 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\sky.xnb</Output>
-      <Time>2018-11-15T13:52:46.5204086+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\sky.xnb</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\HUD\mouseicons.png</Source>
+      <Name>Assets\Textures\UI\HUD\mouseicons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\mouseicons.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\HUD\progress_gradient.png</Source>
+      <Name>Assets\Textures\UI\HUD\progress_gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\progress_gradient.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\HUD\progress_white.png</Source>
+      <Name>Assets\Textures\UI\HUD\progress_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\progress_white.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\HUD\reticuleClosed.png</Source>
+      <Name>Assets\Textures\UI\HUD\reticuleClosed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleClosed.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\HUD\reticuleDefault.png</Source>
+      <Name>Assets\Textures\UI\HUD\reticuleDefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleDefault.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\HUD\reticuleOpen.png</Source>
+      <Name>Assets\Textures\UI\HUD\reticuleOpen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleOpen.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\HUD\white.png</Source>
+      <Name>Assets\Textures\UI\HUD\white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\white.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Menu\Backgrounds\audiomenu.png</Source>
+      <Name>Assets\Textures\UI\Menu\Backgrounds\audiomenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\audiomenu.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Menu\Backgrounds\controlsmenu.png</Source>
+      <Name>Assets\Textures\UI\Menu\Backgrounds\controlsmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\controlsmenu.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Menu\Backgrounds\exitmenu.png</Source>
+      <Name>Assets\Textures\UI\Menu\Backgrounds\exitmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\exitmenu.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Menu\Backgrounds\exitmenuwithtrans.png</Source>
+      <Name>Assets\Textures\UI\Menu\Backgrounds\exitmenuwithtrans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\exitmenuwithtrans.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Menu\Backgrounds\mainmenu.PNG</Source>
+      <Name>Assets\Textures\UI\Menu\Backgrounds\mainmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\mainmenu.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Menu\Buttons\genericbtn.png</Source>
+      <Name>Assets\Textures\UI\Menu\Buttons\genericbtn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Buttons\genericbtn.xnb</Output>
+      <Time>2018-11-16T13:54:26+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Audio\boing.wav</Source>
@@ -374,99 +500,99 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\Assets\Audio\boing.xnb</Output>
-      <Time>2018-11-15T13:52:45.6514056+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\Assets\Audio\boing.xnb</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\box.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\box_0.xml</Output>
-      <Time>2018-11-15T13:52:45.7704058+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\box_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\box2.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\box2_0.xml</Output>
-      <Time>2018-11-15T13:52:45.7964073+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\box2_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\cylinder.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\cylinder_0.xml</Output>
-      <Time>2018-11-15T13:52:45.8164065+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\cylinder_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\dome.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\dome_0.xml</Output>
-      <Time>2018-11-15T13:52:45.8374096+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\dome_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\hedra.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\hedra_0.xml</Output>
-      <Time>2018-11-15T13:52:45.8684079+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\hedra_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\octahedron.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\octahedron_0.xml</Output>
-      <Time>2018-11-15T13:52:45.8934051+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\octahedron_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\plane.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane_0.xml</Output>
-      <Time>2018-11-15T13:52:45.9164082+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\plane1.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane1_0.xml</Output>
-      <Time>2018-11-15T13:52:45.9344066+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane1_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\prism.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\prism_0.xml</Output>
-      <Time>2018-11-15T13:52:45.954406+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\prism_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\sphere.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\sphere_0.xml</Output>
-      <Time>2018-11-15T13:52:45.9734073+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\sphere_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\spindle.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\spindle_0.xml</Output>
-      <Time>2018-11-15T13:52:45.9924068+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\spindle_0.xml</Output>
+      <Time>2018-11-15T13:52:46+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\torus.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\torus_0.xml</Output>
-      <Time>2018-11-15T13:52:46.012407+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\torus_0.xml</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\torusknot.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\Assets\Models\torusknot_0.xml</Output>
-      <Time>2018-11-15T13:52:46.0334061+00:00</Time>
+      <Output>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\Assets\Models\torusknot_0.xml</Output>
+      <Time>2018-11-15T13:52:48+07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -475,39 +601,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDAppContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDApp\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDAppContent\</RootDirectory>
+      <LoggerRootDirectory>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDApp\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+01:00</Value>
+        <Value>2011-09-01T16:22:30+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+01:00</Value>
+        <Value>2011-09-01T16:22:30+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+01:00</Value>
+        <Value>2011-09-01T16:22:30+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+01:00</Value>
+        <Value>2011-09-01T16:22:30+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+01:00</Value>
+        <Value>2011-09-01T16:22:30+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+01:00</Value>
+        <Value>2011-09-01T16:22:30+07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2018-05-01T09:47:04.2216213+01:00</Value>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-09-21T20:46:44.548152+07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

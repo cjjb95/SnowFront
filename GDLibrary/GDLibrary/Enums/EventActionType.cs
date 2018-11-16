@@ -47,5 +47,7 @@ namespace GDLibrary
         //sent when we want to add/remove an Actor from the game - see UIMouseObject::HandlePickedObject()
         OnAddActor,
         OnRemoveActor,
+        OnToggle,
+        OnNewMenu,
     }
 }

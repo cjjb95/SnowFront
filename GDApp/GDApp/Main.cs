@@ -5,26 +5,26 @@ using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
 
-#region TODO - Week 8
+#region TODO - Week 8.2
 /*
  * To Do
  * ---------------
+ * Bug in Pip
  * Add culling of objects outside the camera viewport
- * Add sorting of cameras by draw depth in CameraManager
- * Finish adding cameras for PiP layout
  * Discuss component draw order
  * Discuss mouse bounds
  * Discuss how to draw to menu and quiz to screen
- * Add camera depth and sort cameras by depth before drawing
- * Discuss new 2D components
- * Discuss new methods in IActor and IController
- * Add pause to the ObjectManager by catching pause/play event from eventdispatcher
- * Discuss PausableDrawableGameComponent and PausableGameComponent
- * Discuss Predicates in C#
  * Explain CameraManager::IEnumerator
  * 
  * Done
  * ---------------
+ * Discuss new methods in IActor and IController
+ * Add pause to the ObjectManager by catching pause/play event from eventdispatcher
+ * Discuss PausableDrawableGameComponent and PausableGameComponent
+ * Discuss Predicates in C#
+ * Discuss new 2D components
+ * Add sorting of cameras by draw depth in CameraManager
+ * Finish adding cameras for PiP layout
  * Added JigLibX.dll as a reference in preparation for CDCR
  * Added drawDepth to Camera3D
  * Added support for multi-mesh models (i.e. bug which causes meshes to collapse onto the origin)
@@ -163,7 +163,6 @@ namespace GDApp
     /// </summary>
     public class Main : Microsoft.Xna.Framework.Game
     {
-        int x = 0;
         #region Fields
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
@@ -184,6 +183,7 @@ namespace GDApp
         private ModelObject drivableModelObject;
         private EventDispatcher eventDispatcher;
         private SoundManager soundManager;
+        private MenuManager menuManager;
         #endregion
 
         #region Constructors
@@ -197,6 +197,9 @@ namespace GDApp
         #region Initialization
         protected override void Initialize()
         {
+            // Create a new SpriteBatch, which can be used to draw textures.
+            spriteBatch = new SpriteBatch(GraphicsDevice);
+
             //add the component to handle all system events
             this.eventDispatcher = new EventDispatcher(this, 20);
             Components.Add(this.eventDispatcher);
@@ -235,6 +238,12 @@ namespace GDApp
             this.soundManager = new SoundManager(this, this.eventDispatcher, StatusType.Update, "Content/Assets/Audio/", "Demo2DSound.xgs", "WaveBank1.xwb", "SoundBank1.xsb");
             Components.Add(this.soundManager);
 
+            //Menu
+            this.menuManager = new MenuManager(this, this.inputManagerParameters,
+                this.cameraManager, this.spriteBatch, this.eventDispatcher,
+                StatusType.Off);
+            Components.Add(this.menuManager);
+
 
             int scale = 1250;
             InitializeGround(scale); 
@@ -244,9 +253,55 @@ namespace GDApp
             InitializeDrivableObject();
             InitialiseDecoratorClones();
 
-            InitializeCameras(ScreenLayoutType.Multi2x2);
+            InitializeCameras(ScreenLayoutType.Pip);
+
+            InitializeMainMenu();
+            InitializeOptionMenu();
+            this.menuManager.SetActiveMenu("options");
+            //since debug needs sprite batch then call here
+            InitializeDebug(true);
 
             base.Initialize();
+        }
+
+        private void InitializeOptionMenu()
+        {
+            Transform2D transform = null;
+            UITextureObject textureObject = null;
+
+             transform = new Transform2D(Vector2.Zero, 0, Vector2.One, Vector2.Zero, new Integer2(100,100));
+
+            textureObject = new UITextureObject("op1", ActorType.UITexture,
+                StatusType.Drawn | StatusType.Update, transform,
+                Color.White, SpriteEffects.None, 0,
+                this.textureDictionary["checkerboard"]);
+
+            this.menuManager.Add("options", textureObject);
+
+            
+
+        }
+
+        private void InitializeMainMenu()
+        {
+            Transform2D transform = new Transform2D(new Vector2(400, 400),
+               0, 2*Vector2.One, new Vector2(25, 25), new Integer2(100, 50));
+
+            UITextObject helloTextObject
+                = new UITextObject("banner", ActorType.UIText,
+                StatusType.Drawn | StatusType.Update,
+                transform, Color.White, SpriteEffects.None,
+                1, "Welcome to the game!",
+                this.fontDictionary["hudFont"]);
+
+            helloTextObject.AttachController(
+                new MouseButtonController("mbc1", ControllerType.UIMouse,this.mouseManager));
+
+            //add to manager - menu manager
+            this.menuManager.Add(AppData.MenuMainID, helloTextObject);
+
+            //set active menu
+           // this.menuManager.SetActiveMenu(AppData.MenuMainID);
         }
 
         private void InitializeDictionaries()
@@ -266,7 +321,9 @@ namespace GDApp
 
         private void InitializeDebug(bool v)
         {
-            Components.Add(new DebugDrawer(this, this.cameraManager, this.spriteBatch, this.fontDictionary["debugFont"], new Vector2(20,20), Color.White));
+            Components.Add(new DebugDrawer(this, this.cameraManager, 
+                this.eventDispatcher, StatusType.Drawn | StatusType.Update,
+                this.spriteBatch, this.fontDictionary["debugFont"], new Vector2(20,20), Color.White));
         }
         #endregion
 
@@ -319,6 +376,8 @@ namespace GDApp
 
             //debug
             this.textureDictionary.Load("Assets/Debug/Textures/checkerboard");
+
+            this.textureDictionary.Load("Assets/Textures/UI/Menu/Backgrounds/controlsmenu");
         }
  
         private void LoadRails()
@@ -463,7 +522,43 @@ namespace GDApp
 
         private void AddMainAndPipCamera(Viewport viewport, ProjectionParameters projectionParameters)
         {
-            //todo...
+            Camera3D camera3D = null;
+            Transform3D transform = null;
+
+            //security camera
+            transform = new Transform3D(new Vector3(0, 40, 0),
+                Vector3.Zero, Vector3.One, -Vector3.UnitY, Vector3.UnitZ);
+
+            int width = 240;
+            int height = 180;
+            int xPos = this.resolution.X - width - 10;
+            Viewport pipViewport = new Viewport(xPos, 10, width, height);
+
+            camera3D = new Camera3D("sc1", ActorType.Camera,
+                transform, projectionParameters, pipViewport, 0.8f);
+
+            camera3D.AttachController(new SecurityCameraController("scc1", ControllerType.Security, 15, 2, Vector3.UnitX));
+
+            this.cameraManager.Add(camera3D);
+
+            //1st person
+            transform = new Transform3D(
+                 new Vector3(0, 10, 100), Vector3.Zero,
+                 Vector3.One, -Vector3.UnitZ, Vector3.UnitY);
+
+            camera3D = new Camera3D("fpc1", ActorType.Camera,
+                transform, projectionParameters, viewport, 0.4f);
+
+            camera3D.AttachController(new FirstPersonCameraController(
+              "fpcc1", ControllerType.FirstPerson,
+              AppData.CameraMoveKeys, AppData.CameraMoveSpeed,
+              AppData.CameraStrafeSpeed, AppData.CameraRotationSpeed, this.inputManagerParameters, this.screenCentre));
+
+
+
+
+            //put controller later!
+            this.cameraManager.Add(camera3D);
         }
 
         private void AddTrack3DCamera(Viewport viewport, ProjectionParameters projectionParameters)
@@ -748,11 +843,11 @@ namespace GDApp
         /// </summary>
         protected override void LoadContent()
         {
-            // Create a new SpriteBatch, which can be used to draw textures.
-            spriteBatch = new SpriteBatch(GraphicsDevice);
+            //// Create a new SpriteBatch, which can be used to draw textures.
+            //spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            //since debug needs sprite batch then call here
-            InitializeDebug(true);
+            ////since debug needs sprite batch then call here
+            //InitializeDebug(true);
         }
  
         /// <summary>
@@ -782,10 +877,33 @@ namespace GDApp
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-           DemoSetControllerPlayStatus();
-           DemoSoundManager();
+            DemoSetControllerPlayStatus();
+
+            DemoSoundManager();
+
+            DemoToggleMenu();
+
+            DemoMenuChange();
 
            base.Update(gameTime);
+        }
+
+        private void DemoMenuChange()
+        {
+            if(this.keyboardManager.IsFirstKeyPress(Keys.F7))
+            {
+                EventDispatcher.Publish(new EventData(AppData.MenuMainID, null, EventActionType.OnNewMenu, EventCategoryType.Menu));
+            }
+            else if (this.keyboardManager.IsFirstKeyPress(Keys.F8))
+            {
+                EventDispatcher.Publish(new EventData("options", null, EventActionType.OnNewMenu, EventCategoryType.Menu));
+            }
+        }
+
+        private void DemoToggleMenu()
+        {
+            if (this.keyboardManager.IsFirstKeyPress(Keys.Escape))
+                EventDispatcher.Publish(new EventData(EventActionType.OnToggle, EventCategoryType.Menu));
         }
 
         private void DemoSoundManager()
@@ -816,7 +934,6 @@ namespace GDApp
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.Black);
-
             base.Draw(gameTime);
         }
         #endregion

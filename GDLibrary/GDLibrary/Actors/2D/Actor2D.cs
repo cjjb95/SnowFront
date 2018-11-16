@@ -39,7 +39,8 @@ namespace GDLibrary
         }
         #endregion
 
-        public Actor2D(string id, ActorType actorType, Transform2D transform, StatusType statusType)
+        public Actor2D(string id, ActorType actorType, 
+            Transform2D transform, StatusType statusType)
             : base(id, actorType, statusType)
         {
             this.transform = transform;

@@ -24,10 +24,12 @@ namespace GDLibrary
         //a delegate is basically a list - the list contains a pointer to a function - this function pointer comes from the object wishing to be notified when the event occurs.
         public delegate void AddActorEventHandler(EventData eventData);
         public delegate void RemoveActorEventHandler(EventData eventData);
-        
+        public delegate void MenuChangedEventHandler(EventData eventData);
+
         //an event is either null (not yet happened) or non-null - when the event occurs the delegate reads through its list and calls all the listening functions
         public event AddActorEventHandler AddActorChanged;
         public event RemoveActorEventHandler RemoveActorChanged;
+        public event MenuChangedEventHandler MenuChanged;
 
 
         public EventDispatcher(Game game, int initialSize)
@@ -74,11 +76,21 @@ namespace GDLibrary
                     OnRemoveActor(eventData);
                     break;
 
+                case EventCategoryType.Menu:
+                    OnMenuChanged(eventData);
+                    break;
+
                 default:
                     break;
             }
         }
-   
+
+        //called when a menu is shown, hidden or modified
+        protected virtual void OnMenuChanged(EventData eventData)
+        {
+            MenuChanged?.Invoke(eventData);
+        }
+
         //called when a drawn objects needs to be added - see PickingManager::DoFireNewObject()
         protected virtual void OnAddActor(EventData eventData)
         {

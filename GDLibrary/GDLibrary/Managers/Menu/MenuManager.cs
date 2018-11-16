@@ -13,8 +13,7 @@ namespace GDLibrary
         private List<DrawnActor2D> activeList = null;
 
         private SpriteBatch spriteBatch;
-        private MouseManager mouseManager;
-        private KeyboardManager keyboardManager;
+        private InputManagerParameters inputManagerParameters;
         private CameraManager cameraManager;
         #endregion
 
@@ -28,7 +27,7 @@ namespace GDLibrary
         }
         #endregion
 
-        public MenuManager(Game game, MouseManager mouseManager, KeyboardManager keyboardManager, 
+        public MenuManager(Game game, InputManagerParameters inputManagerParameters,
             CameraManager cameraManager, SpriteBatch spriteBatch, EventDispatcher eventDispatcher, 
             StatusType statusType)
             : base(game, eventDispatcher, statusType)
@@ -36,8 +35,8 @@ namespace GDLibrary
             this.menuDictionary = new Dictionary<string, List<DrawnActor2D>>();
 
             //used to listen for input
-            this.mouseManager = mouseManager;
-            this.keyboardManager = keyboardManager;
+            this.inputManagerParameters = inputManagerParameters;
+
             this.cameraManager = cameraManager;
 
             //used to render menu and UI elements
@@ -45,7 +44,15 @@ namespace GDLibrary
         }
 
         #region Event Handling
-       
+        protected override void EventDispatcher_MenuChanged(EventData eventData)
+        {
+            if(eventData.EventType == EventActionType.OnNewMenu)
+            {
+                this.SetActiveMenu(eventData.ID);
+            }
+
+            base.EventDispatcher_MenuChanged(eventData);
+        }
         #endregion
 
         public void Add(string menuSceneID, DrawnActor2D actor)
@@ -64,7 +71,7 @@ namespace GDLibrary
             //if the user forgets to set the active list then set to the sceneID of the last added item
             if(this.activeList == null)
             {
-                SetActiveList(menuSceneID);
+                SetActiveMenu(menuSceneID);
                    
             }
         }
@@ -98,7 +105,7 @@ namespace GDLibrary
             return null;
         }
 
-        public bool SetActiveList(string menuSceneID)
+        public bool SetActiveMenu(string menuSceneID)
         {
             if (this.menuDictionary.ContainsKey(menuSceneID))
             {
@@ -117,17 +124,13 @@ namespace GDLibrary
                 foreach (DrawnActor2D currentUIObject in this.activeList)
                 {
                     if ((currentUIObject.GetStatusType() & StatusType.Update) != 0) //if update flag is set
+                    {
                         currentUIObject.Update(gameTime);
+                        //check if mouse position
+                    }
                 }
-                //check for mouse over and mouse click on a menu item
-                CheckMouseOverAndClick(gameTime);
             }
 
-        }
-
-        private void CheckMouseOverAndClick(GameTime gameTime)
-        {
-            //todo...
         }
 
         protected override void ApplyDraw(GameTime gameTime)
@@ -144,12 +147,13 @@ namespace GDLibrary
             }
         }
 
-        protected virtual void HandleMouseOver(DrawnActor2D currentUIObject, GameTime gameTime)
+        protected virtual void HandleMouseOver(DrawnActor2D uiObject, GameTime gameTime)
         {
             //developer implements in subclass of MenuManager - see MyMenuManager.cs
+            HandleMouseClick(uiObject, gameTime);
         }
 
-        protected virtual void HandleMouseClick(DrawnActor2D clickedUIObject, GameTime gameTime)
+        protected virtual void HandleMouseClick(DrawnActor2D uiObject, GameTime gameTime)
         {
             //developer implements in subclass of MenuManager - see MyMenuManager.cs
         }

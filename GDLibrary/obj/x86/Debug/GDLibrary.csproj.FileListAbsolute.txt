@@ -360,3 +360,63 @@ C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyCom
 C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.dll
 C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.pdb
 C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\JigLibX.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\JigLibX.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\JigLibX.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\GDLibrary.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\JigLibX.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\GDLibrary.dll
+D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\GDLibrary.pdb

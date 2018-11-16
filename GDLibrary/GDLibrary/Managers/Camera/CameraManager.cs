@@ -62,6 +62,8 @@ namespace GDLibrary
                 this.activeCameraIndex = 0;
 
             this.cameraList.Add(camera);
+
+            this.cameraList.Sort((a, b) => (a.DrawDepth <= b.DrawDepth ? 1 : -1));
         }
 
         public bool Remove(Predicate<Camera3D> predicate)

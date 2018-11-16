@@ -18,5 +18,6 @@ namespace GDLibrary
         Pickup,
         SystemAdd,
         SystemRemove,
+        Menu,
     }
 }

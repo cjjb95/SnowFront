@@ -19,7 +19,9 @@ namespace GDLibrary
         Camera,
         Zone,
         Helper,
-        UIButton
+        UIButton,
+        UIText,
+        UITexture
     }
 }
 

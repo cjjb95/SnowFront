@@ -58,7 +58,18 @@ namespace GDLibrary
         #region Event Handling
         protected virtual void RegisterForEventHandling(EventDispatcher eventDispatcher)
         {
-            //TODO...
+            this.eventDispatcher.MenuChanged += EventDispatcher_MenuChanged;
+        }
+
+        protected virtual void EventDispatcher_MenuChanged(EventData eventData)
+        {
+            if(eventData.EventType == EventActionType.OnToggle)
+            {
+                if (this.statusType == StatusType.Off)
+                    this.statusType = StatusType.Drawn | StatusType.Update;
+                else
+                    this.statusType = StatusType.Off;
+            }
         }
 
         #endregion

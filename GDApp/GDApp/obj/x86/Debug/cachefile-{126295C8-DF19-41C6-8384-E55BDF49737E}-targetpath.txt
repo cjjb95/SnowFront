@@ -1,5 +1,6 @@
 Content\Assets\Debug\Fonts\debugFont.xnb
 Content\Assets\Fonts\hudFont.xnb
+Content\Assets\Fonts\menu.xnb
 Content\Assets\Models\box.xnb
 Content\Assets\Models\box2.xnb
 Content\Assets\Models\cylinder.xnb
@@ -33,6 +34,19 @@ Content\Assets\Textures\Skybox\ground.xnb
 Content\Assets\Textures\Skybox\left.xnb
 Content\Assets\Textures\Skybox\right.xnb
 Content\Assets\Textures\Skybox\sky.xnb
+Content\Assets\Textures\UI\HUD\mouseicons.xnb
+Content\Assets\Textures\UI\HUD\progress_gradient.xnb
+Content\Assets\Textures\UI\HUD\progress_white.xnb
+Content\Assets\Textures\UI\HUD\reticuleClosed.xnb
+Content\Assets\Textures\UI\HUD\reticuleDefault.xnb
+Content\Assets\Textures\UI\HUD\reticuleOpen.xnb
+Content\Assets\Textures\UI\HUD\white.xnb
+Content\Assets\Textures\UI\Menu\Backgrounds\audiomenu.xnb
+Content\Assets\Textures\UI\Menu\Backgrounds\controlsmenu.xnb
+Content\Assets\Textures\UI\Menu\Backgrounds\exitmenu.xnb
+Content\Assets\Textures\UI\Menu\Backgrounds\exitmenuwithtrans.xnb
+Content\Assets\Textures\UI\Menu\Backgrounds\mainmenu.xnb
+Content\Assets\Textures\UI\Menu\Buttons\genericbtn.xnb
 Content\Assets\Audio\boing.xnb
 Content\Assets\Audio\Demo2DSound.xgs
 Content\Assets\Audio\WaveBank1.xwb

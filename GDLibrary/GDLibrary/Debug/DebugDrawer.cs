@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace GDLibrary
 {
-    public class DebugDrawer : DrawableGameComponent
+    public class DebugDrawer : PausableDrawableGameComponent
     {
         #region Fields
         private SpriteBatch spriteBatch;
@@ -17,8 +17,10 @@ namespace GDLibrary
         private Vector2 positionOffset = new Vector2(0, 20);
         #endregion
 
-        public DebugDrawer(Game game, CameraManager cameraManager, SpriteBatch spriteBatch, 
-            SpriteFont spriteFont, Vector2 position, Color color) : base(game)
+        public DebugDrawer(Game game, CameraManager cameraManager, 
+            EventDispatcher eventDispatcher, StatusType statusType,
+            SpriteBatch spriteBatch, SpriteFont spriteFont, Vector2 position, Color color) 
+            : base(game, eventDispatcher, statusType)
         {
             this.spriteBatch = spriteBatch;
             this.cameraManager = cameraManager;
@@ -27,7 +29,7 @@ namespace GDLibrary
             this.color = color;
         }
 
-        public override void Update(GameTime gameTime)
+        protected override void ApplyUpdate(GameTime gameTime)
         {
             this.totalTime += gameTime.ElapsedGameTime.Milliseconds;
             this.count++;
@@ -39,10 +41,10 @@ namespace GDLibrary
                 this.count = 0;
             }
 
-            base.Update(gameTime);
+            base.ApplyUpdate(gameTime);
         }
 
-        public override void Draw(GameTime gameTime)
+        protected override void ApplyDraw(GameTime gameTime)
         {
             //draw the debug info for all of the cameras in the cameramanager
             foreach (Camera3D activeCamera in this.cameraManager)
@@ -59,7 +61,7 @@ namespace GDLibrary
                 this.spriteBatch.End();
             }
 
-            base.Draw(gameTime);
+            base.ApplyDraw(gameTime);
         }
     }
 }
