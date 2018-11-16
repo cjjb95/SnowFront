@@ -1,0 +1,362 @@
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 3\New\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk3 - GDApp - Adding Camera3D - Object3DManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk3 - GDApp - Wk4 - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - Start\Wk4 - GDApp - KeyboardManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk4 - GDApp - MouseManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk4.2 - GDApp\Wk4 - GDApp - SkyBox to FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+\\Staff\Home\mcguinnn\_2018\3DGD\Week 4\Wk4.2 - GDApp - Controllers\Wk4.2 - GDApp - FlightCameraController\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk5.2 - More Controllers\Wk5.2 - More Controllers\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\Niall\Downloads\Wk5.2 - CameraManager\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - DebugDrawer - Start\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk6.1\Wk6.1 - ContentDictionary\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk6.2\Wk6.2\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\Wk7.1\Wk7.1\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Niall\Downloads\GDApp\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Niall\Downloads\GDApp\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Niall\Downloads\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Niall\Downloads\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\Niall\Downloads\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\Niall\Downloads\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\GDApp\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk7 - SplitScreen, Rail, Track\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Niall\Downloads\Wk8\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Niall\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Niall\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\Niall\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\Niall\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\Niall\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\Niall\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.dll
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+C:\Users\mcguinnn\Downloads\Wk8\GDLibrary\bin\x86\Debug\JigLibX.dll

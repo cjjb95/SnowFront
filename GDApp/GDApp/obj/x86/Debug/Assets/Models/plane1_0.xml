@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Plane001</Name>
+    <Identity>
+      <SourceFilename>C:\Users\mcguinnn\Downloads\Wk8\GDApp\GDAppContent\Assets\Models\plane1.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <OpaqueData>
+      <Data Key="MaxHandle" Type="int">2</Data>
+    </OpaqueData>
+    <Transform>2.54 0 0 0 0 1.55530138E-16 -2.54 0 0 2.54 1.55530138E-16 0 0 0 -1.09069265E-06 1</Transform>
+    <Positions>-0.5 -0.5 0 -0.25 -0.5 0 0 -0.5 0 0.25 -0.5 0 0.5 -0.5 0 -0.5 -0.25 0 -0.25 -0.25 0 0 -0.25 0 0.25 -0.25 0 0.5 -0.25 0 -0.5 0 0 -0.25 0 0 0 0 0 0.25 0 0 0.5 0 0 -0.5 0.25 0 -0.25 0.25 0 0 0.25 0 0.25 0.25 0 0.5 0.25 0 -0.5 0.5 0 -0.25 0.5 0 0 0.5 0 0.25 0.5 0 0.5 0.5 0</Positions>
+    <Geometry>
+      <Batch>
+        <Indices>2 1 0 0 3 2 5 4 1 1 2 5 7 6 4 4 5 7 9 8 6 6 7 9 10 2 3 3 11 10 12 5 2 2 10 12 13 7 5 5 12 13 14 9 7 7 13 14 15 10 11 11 16 15 17 12 10 10 15 17 18 13 12 12 17 18 19 14 13 13 18 19 20 15 16 16 21 20 22 17 15 15 20 22 23 18 17 17 22 23 24 19 18 18 23 24</Indices>
+        <Vertices>
+          <PositionIndices>0 1 6 5 2 7 3 8 4 9 11 10 12 13 14 16 15 17 18 19 21 20 22 23 24</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 1 0.25 1 0.25 0.75 0 0.75 0.5 1 0.5 0.75 0.75 1 0.75 0.75 1 1 1 0.75 0.25 0.5 0 0.5 0.5 0.5 0.75 0.5 1 0.5 0.25 0.25 0 0.25 0.5 0.25 0.75 0.25 1 0.25 0.25 0 0 0 0.5 0 0.75 0 1 0</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+</XnaContent>

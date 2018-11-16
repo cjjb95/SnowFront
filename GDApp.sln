@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDApp", "GDApp\GDApp\GDApp.csproj", "{1DCE7442-3ACC-4A25-B016-CD5BDD37D233}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1BB3A2F0-D4FB-488D-9EE5-02869F0A0A26} = {1BB3A2F0-D4FB-488D-9EE5-02869F0A0A26}
+	EndProjectSection
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GDAppContent", "GDApp\GDAppContent\GDAppContent.contentproj", "{126295C8-DF19-41C6-8384-E55BDF49737E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDLibrary", "GDLibrary\GDLibrary.csproj", "{1BB3A2F0-D4FB-488D-9EE5-02869F0A0A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCE7442-3ACC-4A25-B016-CD5BDD37D233}.Debug|x86.ActiveCfg = Debug|x86
+		{1DCE7442-3ACC-4A25-B016-CD5BDD37D233}.Debug|x86.Build.0 = Debug|x86
+		{1DCE7442-3ACC-4A25-B016-CD5BDD37D233}.Release|x86.ActiveCfg = Release|x86
+		{1DCE7442-3ACC-4A25-B016-CD5BDD37D233}.Release|x86.Build.0 = Release|x86
+		{126295C8-DF19-41C6-8384-E55BDF49737E}.Debug|x86.ActiveCfg = Debug|x86
+		{126295C8-DF19-41C6-8384-E55BDF49737E}.Release|x86.ActiveCfg = Release|x86
+		{1BB3A2F0-D4FB-488D-9EE5-02869F0A0A26}.Debug|x86.ActiveCfg = Debug|x86
+		{1BB3A2F0-D4FB-488D-9EE5-02869F0A0A26}.Debug|x86.Build.0 = Debug|x86
+		{1BB3A2F0-D4FB-488D-9EE5-02869F0A0A26}.Release|x86.ActiveCfg = Release|x86
+		{1BB3A2F0-D4FB-488D-9EE5-02869F0A0A26}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD094EF1-D8EE-4893-A8F3-13521B058CBA}
+	EndGlobalSection
+EndGlobal
