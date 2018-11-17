@@ -257,7 +257,7 @@ namespace GDApp
 
             InitializeMainMenu();
             InitializeOptionMenu();
-            this.menuManager.SetActiveMenu("options");
+            this.menuManager.SetActiveMenu(AppData.MenuMainID);
             //since debug needs sprite batch then call here
             InitializeDebug(true);
 
@@ -269,39 +269,80 @@ namespace GDApp
             Transform2D transform = null;
             UITextureObject textureObject = null;
 
-             transform = new Transform2D(Vector2.Zero, 0, Vector2.One, Vector2.Zero, new Integer2(100,100));
+             transform = new Transform2D(1.5f*Vector2.One);
 
             textureObject = new UITextureObject("op1", ActorType.UITexture,
                 StatusType.Drawn | StatusType.Update, transform,
-                Color.White, SpriteEffects.None, 0,
-                this.textureDictionary["checkerboard"]);
+                Color.White, SpriteEffects.None, 1,
+                this.textureDictionary["ice"]);
 
             this.menuManager.Add("options", textureObject);
 
-            
+            transform = new Transform2D(new Vector2(200, 300), 0, new Vector2(1, 0.5f), Vector2.Zero, new Integer2(600, 160));
+
+            textureObject = new UITextureObject("slider1", ActorType.UITexture,
+                StatusType.Drawn | StatusType.Update, transform,
+                Color.White, SpriteEffects.None, 0.5f,
+                this.textureDictionary["sliderBar"]);
+
+            this.menuManager.Add("options", textureObject);
+
+            transform = new Transform2D(new Vector2(300, 290), 0, new Vector2(1,0.7f), Vector2.Zero, new Integer2(180, 150));
+
+            textureObject = new UITextureObject("tracker1", ActorType.UITexture,
+                StatusType.Drawn | StatusType.Update, transform,
+                Color.White, SpriteEffects.None, 0,
+                this.textureDictionary["sliderTracker"]);
+
+            this.menuManager.Add("options", textureObject);
+
+
 
         }
 
         private void InitializeMainMenu()
         {
-            Transform2D transform = new Transform2D(new Vector2(400, 400),
-               0, 2*Vector2.One, new Vector2(25, 25), new Integer2(100, 50));
+            Transform2D transform = null;
+            UITextureObject menuObject = null;
+            Vector2 midPoint = Vector2.Zero;
 
-            UITextObject helloTextObject
-                = new UITextObject("banner", ActorType.UIText,
-                StatusType.Drawn | StatusType.Update,
-                transform, Color.White, SpriteEffects.None,
-                1, "Welcome to the game!",
-                this.fontDictionary["hudFont"]);
+            midPoint = new Vector2(this.textureDictionary["menuButton"].Width / 2.0f,
+                this.textureDictionary["menuButton"].Height / 2.0f);
 
-            helloTextObject.AttachController(
+            transform = new Transform2D(new Vector2(500, 300),
+              0,  0.5f * Vector2.One, midPoint, new Integer2(1000, 367));
+
+            menuObject = new UITextureObject("menu1", ActorType.UITexture,
+                StatusType.Drawn | StatusType.Update, transform,
+                Color.White, SpriteEffects.None, 0,
+                this.textureDictionary["menuButton"]);
+
+            menuObject.AttachController(
                 new MouseButtonController("mbc1", ControllerType.UIMouse,this.mouseManager));
 
             //add to manager - menu manager
-            this.menuManager.Add(AppData.MenuMainID, helloTextObject);
+            this.menuManager.Add(AppData.MenuMainID, menuObject);
+
+            midPoint = new Vector2(this.textureDictionary["exitButton"].Width / 2.0f,
+                this.textureDictionary["exitButton"].Height / 2.0f);
+
+            transform = new Transform2D(new Vector2(500, 500),
+              0, 0.5f * Vector2.One, midPoint, new Integer2(1000,367));
+
+            menuObject = new UITextureObject("exit1", ActorType.UITexture,
+                StatusType.Drawn | StatusType.Update, transform,
+                Color.White, SpriteEffects.None, 0,
+                this.textureDictionary["exitButton"]);
+
+            menuObject.AttachController(
+                new MouseButtonController("mbc1", ControllerType.UIMouse, this.mouseManager));
+
+            //add to manager - menu manager
+            this.menuManager.Add(AppData.MenuMainID, menuObject);
+
 
             //set active menu
-           // this.menuManager.SetActiveMenu(AppData.MenuMainID);
+            // this.menuManager.SetActiveMenu(AppData.MenuMainID);
         }
 
         private void InitializeDictionaries()
@@ -361,6 +402,8 @@ namespace GDApp
         {
             this.textureDictionary.Load("grass1",
                 "Assets/Textures/Foliage/Ground/grass1");
+            this.textureDictionary.Load("ice",
+                "Assets/Textures/Foliage/Ground/iceSheet");
 
             this.textureDictionary.Load("Assets/Textures/Skybox/front");
             this.textureDictionary.Load("Assets/Textures/Skybox/back");
@@ -373,6 +416,12 @@ namespace GDApp
                     "Assets/Textures/Props/Crates/crate1");
             this.textureDictionary.Load(
                     "Assets/Textures/Props/Crates/crate2");
+
+
+            this.textureDictionary.Load("Assets/Textures/Menu/exitButton");
+            this.textureDictionary.Load("Assets/Textures/Menu/menuButton");
+            this.textureDictionary.Load("Assets/Textures/Menu/sliderBar");
+            this.textureDictionary.Load("Assets/Textures/Menu/sliderTracker");
 
             //debug
             this.textureDictionary.Load("Assets/Debug/Textures/checkerboard");
@@ -876,6 +925,11 @@ namespace GDApp
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
+
+            if(MouseButtonController.exit)
+            {
+                Exit();
+            }
 
             DemoSetControllerPlayStatus();
 

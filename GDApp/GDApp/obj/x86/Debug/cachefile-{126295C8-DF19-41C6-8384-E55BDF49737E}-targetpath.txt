@@ -47,6 +47,11 @@ Content\Assets\Textures\UI\Menu\Backgrounds\exitmenu.xnb
 Content\Assets\Textures\UI\Menu\Backgrounds\exitmenuwithtrans.xnb
 Content\Assets\Textures\UI\Menu\Backgrounds\mainmenu.xnb
 Content\Assets\Textures\UI\Menu\Buttons\genericbtn.xnb
+Content\Assets\Textures\Menu\exitButton.xnb
+Content\Assets\Textures\Menu\menuButton.xnb
+Content\Assets\Textures\Menu\sliderBar.xnb
+Content\Assets\Textures\Menu\sliderTracker.xnb
+Content\Assets\Textures\Foliage\Ground\iceSheet.xnb
 Content\Assets\Audio\boing.xnb
 Content\Assets\Audio\Demo2DSound.xgs
 Content\Assets\Audio\WaveBank1.xwb

@@ -11,3 +11,5 @@ C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Came
 C:\Users\mcguinnn\Downloads\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\Wk8.2 - Camera Sort\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentproj.CoreCompileInputs.cache
 D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojAssemblyReference.cache
 D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentproj.CoreCompileInputs.cache
+D:\School\Year 3\UDP\Project\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojAssemblyReference.cache
+D:\School\Year 3\UDP\Project\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentproj.CoreCompileInputs.cache

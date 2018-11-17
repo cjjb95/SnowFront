@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>plane</Name>
     <Identity>
-      <SourceFilename>D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDApp\GDAppContent\Assets\Models\plane.FBX</SourceFilename>
+      <SourceFilename>D:\School\Year 3\UDP\Project\GDApp\GDAppContent\Assets\Models\plane.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>2.54 0 0 0 0 7.19523466E-16 -2.54 0 0 2.54 7.19523466E-16 0 -2.37657 0 2.32954764 1</Transform>

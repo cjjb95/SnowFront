@@ -10,6 +10,7 @@ namespace GDLibrary
     {
         private int totalElapsedTime;
         private MouseManager mouseManager;
+        public static bool exit = false;
 
         public MouseButtonController(string id, ControllerType controllerType, MouseManager mouseManager) : base(id, controllerType)
         {
@@ -20,21 +21,34 @@ namespace GDLibrary
         {
             DrawnActor2D parentActor = actor as DrawnActor2D;
 
-            TrigonometricParameters trig = new TrigonometricParameters(1, 1);
             
-
-            this.totalElapsedTime += gameTime.ElapsedGameTime.Milliseconds;
-            
-            float lerpFactor = MathUtility.Sin(trig, this.totalElapsedTime);
-
-            parentActor.Color = MathUtility.Lerp(Color.Red, Color.Blue, lerpFactor);
 
             if(parentActor.Transform.Bounds.Intersects(this.mouseManager.Bounds))
             {
-                if(this.mouseManager.IsLeftButtonClicked())
+                TrigonometricParameters trig = new TrigonometricParameters(1, 0.1f);
+                this.totalElapsedTime += gameTime.ElapsedGameTime.Milliseconds;
+
+                float lerpFactor = MathUtility.Sin(trig, this.totalElapsedTime);
+
+                parentActor.Color = MathUtility.Lerp(Color.Red, Color.Blue, lerpFactor);
+                parentActor.Transform.Scale = MathUtility.Lerp(parentActor.Transform.Scale * 0.999f, parentActor.Transform.Scale * 1.001f  , lerpFactor);
+                Console.WriteLine(parentActor.Transform.Scale);
+
+                if (this.mouseManager.IsLeftButtonClicked())
                 {
-                    int x = 0;
+                    if (parentActor.ID.Equals("menu1"))
+                    {
+                        EventDispatcher.Publish(new EventData("options", null, EventActionType.OnNewMenu, EventCategoryType.Menu));
+                    }else if(parentActor.ID.Equals("exit1"))
+                    {
+                        exit = true;
+                    }
                 }
+            }
+            else
+            {
+                parentActor.Transform.Scale = parentActor.Transform.OriginalTransform2D.Scale;
+                parentActor.Color = parentActor.OriginalColor;
             }
 
             base.Update(gameTime, actor);

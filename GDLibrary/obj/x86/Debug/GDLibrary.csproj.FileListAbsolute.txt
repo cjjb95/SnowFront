@@ -420,3 +420,23 @@ D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\G
 D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
 D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\GDLibrary.dll
 D:\School\Year 3\3D Game Dev\Wk8.3 - Menu\Wk8.3 - Menu\GDLibrary\obj\x86\Debug\GDLibrary.pdb
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\GDLibrary.dll
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\GDLibrary.pdb
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\JigLibX.dll
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\School\Year 3\UDP\Project\GDLibrary\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\School\Year 3\UDP\Project\GDLibrary\obj\x86\Debug\GDLibrary.csprojAssemblyReference.cache
+D:\School\Year 3\UDP\Project\GDLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\School\Year 3\UDP\Project\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CoreCompileInputs.cache
+D:\School\Year 3\UDP\Project\GDLibrary\obj\x86\Debug\GDLibrary.csproj.CopyComplete
+D:\School\Year 3\UDP\Project\GDLibrary\obj\x86\Debug\GDLibrary.dll
+D:\School\Year 3\UDP\Project\GDLibrary\obj\x86\Debug\GDLibrary.pdb
