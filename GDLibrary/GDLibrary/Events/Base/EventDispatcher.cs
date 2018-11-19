@@ -19,18 +19,21 @@ namespace GDLibrary
         //See Queue doc - https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1?view=netframework-4.7.1
         private static Queue<EventData> queue; //stores events in arrival sequence
         private static HashSet<EventData> uniqueSet; //prevents the same event from existing in the stack for a single update cycle (e.g. when playing a sound based on keyboard press)
-      
+
 
         //a delegate is basically a list - the list contains a pointer to a function - this function pointer comes from the object wishing to be notified when the event occurs.
         public delegate void AddActorEventHandler(EventData eventData);
         public delegate void RemoveActorEventHandler(EventData eventData);
         public delegate void MenuChangedEventHandler(EventData eventData);
+        public delegate void CoatOnEventHandler(EventData eventData);
+        public delegate void EnteringIceEventHandler(EventData eventData);
 
         //an event is either null (not yet happened) or non-null - when the event occurs the delegate reads through its list and calls all the listening functions
         public event AddActorEventHandler AddActorChanged;
         public event RemoveActorEventHandler RemoveActorChanged;
         public event MenuChangedEventHandler MenuChanged;
-
+        public event CoatOnEventHandler CoatOn;
+        public event EnteringIceEventHandler EnteringIce;
 
         public EventDispatcher(Game game, int initialSize)
             : base(game)
@@ -50,7 +53,7 @@ namespace GDLibrary
 
         EventData eventData;
         public override void Update(GameTime gameTime)
-        { 
+        {
             for (int i = 0; i < queue.Count; i++)
             {
                 eventData = queue.Dequeue();
@@ -80,9 +83,22 @@ namespace GDLibrary
                     OnMenuChanged(eventData);
                     break;
 
+                case EventCategoryType.Coat:
+                    OnCoat(eventData);
+                    break;
+
+                case EventCategoryType.Ice:
+                    OnEnteringIce(eventData);
+                    break;
+
                 default:
                     break;
             }
+        }
+
+        private void OnCoat(EventData eventData)
+        {//add OnCoat method
+            CoatOn?.Invoke(eventData);
         }
 
         //called when a menu is shown, hidden or modified
@@ -101,6 +117,11 @@ namespace GDLibrary
         protected virtual void OnRemoveActor(EventData eventData)
         {
             RemoveActorChanged?.Invoke(eventData);
+        }
+
+        protected virtual void OnEnteringIce(EventData eventData)
+        {
+            EnteringIce?.Invoke(eventData);
         }
     }
 }

@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Debug\Fonts\debugFont.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Debug\Fonts\debugFont.xnb</Output>
+      <Time>2018-11-17T08:05:30.0546323+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Fonts\hudFont.spritefont</Source>
@@ -16,8 +16,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\hudFont.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\hudFont.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Fonts\menu.spritefont</Source>
@@ -25,8 +25,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\menu.xnb</Output>
-      <Time>2018-11-16T13:55:00+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\menu.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\box.FBX</Source>
@@ -34,11 +34,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\box.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\box.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\box_0.xml</Key>
-        <Value>2018-11-17T07:56:48.5170268+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\box_0.xml</Key>
+        <Value>2018-11-17T08:05:57.8044309+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -47,11 +47,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\box2.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\box2.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\box2_0.xml</Key>
-        <Value>2018-11-17T07:56:48.5978674+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\box2_0.xml</Key>
+        <Value>2018-11-17T08:05:57.874255+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -60,11 +60,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\cylinder.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\cylinder.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\cylinder_0.xml</Key>
-        <Value>2018-11-17T07:56:48.6380114+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\cylinder_0.xml</Key>
+        <Value>2018-11-17T08:05:57.9285459+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -73,11 +73,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\dome.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\dome.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\dome_0.xml</Key>
-        <Value>2018-11-17T07:56:48.717363+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\dome_0.xml</Key>
+        <Value>2018-11-17T08:05:58.0183357+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -86,11 +86,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\hedra.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\hedra.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\hedra_0.xml</Key>
-        <Value>2018-11-17T07:56:48.7578019+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\hedra_0.xml</Key>
+        <Value>2018-11-17T08:05:58.0545585+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -99,11 +99,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\octahedron.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\octahedron.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\octahedron_0.xml</Key>
-        <Value>2018-11-17T07:56:48.7920581+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\octahedron_0.xml</Key>
+        <Value>2018-11-17T08:05:58.0941719+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -112,11 +112,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\plane.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\plane.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane_0.xml</Key>
-        <Value>2018-11-17T07:56:48.8581604+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane_0.xml</Key>
+        <Value>2018-11-17T08:05:58.1640944+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -125,11 +125,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\plane1.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\plane1.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane1_0.xml</Key>
-        <Value>2018-11-17T07:56:48.8882061+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane1_0.xml</Key>
+        <Value>2018-11-17T08:05:58.194523+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -138,11 +138,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\prism.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\prism.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\prism_0.xml</Key>
-        <Value>2018-11-17T07:56:48.9281298+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\prism_0.xml</Key>
+        <Value>2018-11-17T08:05:58.2245762+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -151,11 +151,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\sphere.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\sphere.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\sphere_0.xml</Key>
-        <Value>2018-11-17T07:56:48.96784+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\sphere_0.xml</Key>
+        <Value>2018-11-17T08:05:58.284203+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -164,11 +164,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\spindle.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\spindle.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\spindle_0.xml</Key>
-        <Value>2018-11-17T07:56:49.0105364+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\spindle_0.xml</Key>
+        <Value>2018-11-17T08:05:58.3240777+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -177,11 +177,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\torus.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\torus.xnb</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\torus_0.xml</Key>
-        <Value>2018-11-17T07:56:49.0482874+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\torus_0.xml</Key>
+        <Value>2018-11-17T08:05:58.394479+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -190,11 +190,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\torusknot.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Models\torusknot.xnb</Output>
+      <Time>2018-11-17T08:05:30.0743129+07:00</Time>
       <Dependency>
-        <Key>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\torusknot_0.xml</Key>
-        <Value>2018-11-17T07:56:49.1171176+07:00</Value>
+        <Key>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\torusknot_0.xml</Key>
+        <Value>2018-11-17T08:05:58.4641239+07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -203,8 +203,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Debug\Textures\checkerboard.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Debug\Textures\checkerboard.xnb</Output>
+      <Time>2018-11-17T08:05:30.0546323+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Ground\foliage.png</Source>
@@ -212,8 +212,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\foliage.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\foliage.xnb</Output>
+      <Time>2018-11-17T08:05:30.0743129+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Ground\grass1.jpg</Source>
@@ -221,8 +221,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\grass1.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\grass1.xnb</Output>
+      <Time>2018-11-17T08:05:30.0743129+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Shrubs\shrub1.png</Source>
@@ -230,8 +230,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub1.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub1.xnb</Output>
+      <Time>2018-11-17T08:05:30.0946109+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Shrubs\shrub2.png</Source>
@@ -239,8 +239,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub2.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub2.xnb</Output>
+      <Time>2018-11-17T08:05:30.0971898+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Shrubs\shrub3.png</Source>
@@ -248,8 +248,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub3.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub3.xnb</Output>
+      <Time>2018-11-17T08:05:30.0971898+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree1.png</Source>
@@ -257,8 +257,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree1.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree1.xnb</Output>
+      <Time>2018-11-17T08:05:30.0971898+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree2.png</Source>
@@ -266,8 +266,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree2.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree2.xnb</Output>
+      <Time>2018-11-17T08:05:30.1042548+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree3.png</Source>
@@ -275,8 +275,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree3.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree3.xnb</Output>
+      <Time>2018-11-17T08:05:30.1042548+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree4.png</Source>
@@ -284,8 +284,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree4.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree4.xnb</Output>
+      <Time>2018-11-17T08:05:30.1245184+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Trees\tree5.png</Source>
@@ -293,8 +293,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree5.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree5.xnb</Output>
+      <Time>2018-11-17T08:05:30.1342563+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Props\Crates\crate1.jpg</Source>
@@ -302,8 +302,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate1.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate1.xnb</Output>
+      <Time>2018-11-17T08:05:30.1342563+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Props\Crates\crate2.jpg</Source>
@@ -311,8 +311,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate2.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate2.xnb</Output>
+      <Time>2018-11-17T08:05:30.1342563+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Props\tv.png</Source>
@@ -320,8 +320,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\tv.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\tv.xnb</Output>
+      <Time>2018-11-17T08:05:30.1342563+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\back.bmp</Source>
@@ -329,8 +329,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\back.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\back.xnb</Output>
+      <Time>2018-11-17T08:05:30.1444848+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\front.bmp</Source>
@@ -338,8 +338,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\front.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\front.xnb</Output>
+      <Time>2018-11-17T08:05:30.1444848+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\ground.bmp</Source>
@@ -347,8 +347,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\ground.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\ground.xnb</Output>
+      <Time>2018-11-17T08:05:30.1545022+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\left.bmp</Source>
@@ -356,8 +356,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\left.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\left.xnb</Output>
+      <Time>2018-11-17T08:05:30.1585082+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\right.bmp</Source>
@@ -365,8 +365,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\right.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\right.xnb</Output>
+      <Time>2018-11-17T08:05:30.1645586+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Skybox\sky.bmp</Source>
@@ -374,8 +374,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\sky.xnb</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\sky.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\HUD\mouseicons.png</Source>
@@ -383,8 +383,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\mouseicons.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\mouseicons.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\HUD\progress_gradient.png</Source>
@@ -392,8 +392,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\progress_gradient.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\progress_gradient.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\HUD\progress_white.png</Source>
@@ -401,8 +401,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\progress_white.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\progress_white.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\HUD\reticuleClosed.png</Source>
@@ -410,8 +410,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleClosed.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleClosed.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\HUD\reticuleDefault.png</Source>
@@ -419,8 +419,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleDefault.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleDefault.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\HUD\reticuleOpen.png</Source>
@@ -428,8 +428,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleOpen.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\reticuleOpen.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\HUD\white.png</Source>
@@ -437,8 +437,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\white.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\HUD\white.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\Menu\Backgrounds\audiomenu.png</Source>
@@ -446,8 +446,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\audiomenu.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\audiomenu.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\Menu\Backgrounds\controlsmenu.png</Source>
@@ -455,8 +455,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\controlsmenu.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\controlsmenu.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\Menu\Backgrounds\exitmenu.png</Source>
@@ -464,8 +464,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\exitmenu.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\exitmenu.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\Menu\Backgrounds\exitmenuwithtrans.png</Source>
@@ -473,8 +473,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\exitmenuwithtrans.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\exitmenuwithtrans.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\Menu\Backgrounds\mainmenu.PNG</Source>
@@ -482,8 +482,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\mainmenu.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Backgrounds\mainmenu.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\UI\Menu\Buttons\genericbtn.png</Source>
@@ -491,8 +491,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Buttons\genericbtn.xnb</Output>
-      <Time>2018-11-16T13:54:26+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Menu\Buttons\genericbtn.xnb</Output>
+      <Time>2018-11-17T08:05:30.1742301+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Menu\exitButton.jpg</Source>
@@ -500,8 +500,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\exitButton.xnb</Output>
-      <Time>2018-11-17T07:00:05.4458937+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\exitButton.xnb</Output>
+      <Time>2018-11-17T08:05:30.1342563+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Menu\menuButton.jpg</Source>
@@ -509,8 +509,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\menuButton.xnb</Output>
-      <Time>2018-11-17T07:00:11.5166179+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\menuButton.xnb</Output>
+      <Time>2018-11-17T08:05:30.1342563+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Menu\sliderBar.png</Source>
@@ -518,8 +518,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\sliderBar.xnb</Output>
-      <Time>2018-11-17T07:39:14.6140236+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\sliderBar.xnb</Output>
+      <Time>2018-11-17T08:05:30.1342563+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Menu\sliderTracker.png</Source>
@@ -527,8 +527,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\sliderTracker.xnb</Output>
-      <Time>2018-11-17T07:39:19.8539271+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\sliderTracker.xnb</Output>
+      <Time>2018-11-17T08:05:30.1342563+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Textures\Foliage\Ground\iceSheet.bmp</Source>
@@ -536,8 +536,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\iceSheet.xnb</Output>
-      <Time>2018-11-17T07:49:18.0057477+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\iceSheet.xnb</Output>
+      <Time>2018-11-17T08:05:30.0845241+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Audio\boing.wav</Source>
@@ -545,99 +545,99 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\Assets\Audio\boing.xnb</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\Assets\Audio\boing.xnb</Output>
+      <Time>2018-11-17T08:05:30.0546323+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\box.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\box_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\box_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\box2.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\box2_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\box2_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\cylinder.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\cylinder_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\cylinder_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\dome.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\dome_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\dome_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\hedra.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\hedra_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\hedra_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\octahedron.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\octahedron_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\octahedron_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\plane.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\plane1.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane1_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\plane1_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\prism.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\prism_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\prism_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\sphere.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\sphere_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\sphere_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\spindle.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\spindle_0.xml</Output>
-      <Time>2018-11-15T13:52:46+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\spindle_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\torus.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\torus_0.xml</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\torus_0.xml</Output>
+      <Time>2018-11-17T08:05:30.064202+07:00</Time>
     </Item>
     <Item>
       <Source>Assets\Models\torusknot.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\Assets\Models\torusknot_0.xml</Output>
-      <Time>2018-11-15T13:52:48+07:00</Time>
+      <Output>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\Assets\Models\torusknot_0.xml</Output>
+      <Time>2018-11-17T08:05:30.0743129+07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -646,10 +646,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\School\Year 3\UDP\Project\GDApp\GDAppContent\</RootDirectory>
-      <LoggerRootDirectory>D:\School\Year 3\UDP\Project\GDApp\GDApp\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\School\Year 3\UDP\Project\GDApp\GDApp\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\School\Year 3\UDP\Project\GDApp\GDApp\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDAppContent\</RootDirectory>
+      <LoggerRootDirectory>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\School\Year 3\UDP\Project\SnowFront\GDApp\GDApp\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

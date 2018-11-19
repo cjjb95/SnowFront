@@ -184,6 +184,7 @@ namespace GDApp
         private EventDispatcher eventDispatcher;
         private SoundManager soundManager;
         private MenuManager menuManager;
+        private bool coat;
         #endregion
 
         #region Constructors
@@ -362,10 +363,16 @@ namespace GDApp
 
         private void InitializeDebug(bool v)
         {
-            Components.Add(new DebugDrawer(this, this.cameraManager, 
-                this.eventDispatcher, StatusType.Drawn | StatusType.Update,
-                this.spriteBatch, this.fontDictionary["debugFont"], new Vector2(20,20), Color.White));
+            Components.Add(new DebugDrawer(this, this.cameraManager, this.spriteBatch,
+                this.fontDictionary["debugFont"], new Vector2(20, 20),
+                36.1f, 0.3f,
+                Color.White, this.eventDispatcher,
+                StatusType.Drawn | StatusType.Update));
+
+            //add this.coat (bool type) for toggling the coat on/off
+            this.coat = false;
         }
+
         #endregion
 
         #region Assets
@@ -933,13 +940,32 @@ namespace GDApp
 
             DemoSetControllerPlayStatus();
 
+            DemoCoat(); // add DemoCoat() method
+
             DemoSoundManager();
 
             DemoToggleMenu();
 
+            DemoSlippingIce();
+
             DemoMenuChange();
 
            base.Update(gameTime);
+        }
+
+        private void DemoCoat()
+        {
+            // if the Enter key is pressed and the coat is not on
+            if (this.keyboardManager.IsFirstKeyPress(Keys.Enter) && !coat)
+            {   //publish an EventData with EventActionType.OnCoat and EventCategory.Coat
+                EventDispatcher.Publish(new EventData(EventActionType.OnCoat, EventCategoryType.Coat));
+                coat = true;// set the coat to true
+            }
+            else if (this.keyboardManager.IsFirstKeyPress(Keys.Enter) && coat)
+            {	//publish an EventData with EventActionType.OffCoat and EventCategory.Coat
+                EventDispatcher.Publish(new EventData(EventActionType.OffCoat, EventCategoryType.Coat));
+                coat = false; //  set the coat to false
+            }
         }
 
         private void DemoMenuChange()
@@ -952,6 +978,12 @@ namespace GDApp
             {
                 EventDispatcher.Publish(new EventData("options", null, EventActionType.OnNewMenu, EventCategoryType.Menu));
             }
+        }
+
+        public void DemoSlippingIce()
+        {
+            if (this.keyboardManager.IsFirstKeyPress(Keys.I))
+                EventDispatcher.Publish(new EventData(EventActionType.EnterIce, EventCategoryType.Ice));
         }
 
         private void DemoToggleMenu()

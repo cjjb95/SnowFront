@@ -19,5 +19,7 @@ namespace GDLibrary
         SystemAdd,
         SystemRemove,
         Menu,
+        Ice,
+        Coat,
     }
 }

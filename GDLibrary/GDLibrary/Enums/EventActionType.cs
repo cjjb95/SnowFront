@@ -49,5 +49,8 @@ namespace GDLibrary
         OnRemoveActor,
         OnToggle,
         OnNewMenu,
+        EnterIce,
+        OnCoat,
+        OffCoat,
     }
 }
